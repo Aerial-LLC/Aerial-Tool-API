@@ -6,12 +6,6 @@
       "date": "2025-08-27",
       "link": "https://github.com/Aerial-LLC/Aerial-Tool-API/releases/tag/v1.0.0"
     },
-    {
-      "title": "Test1",
-      "description": "Test2",
-      "date": "2025-08-20",
-      "link": "https://github.com/Aerial-LLC/Aerial-Tool-API/releases/tag/v1.0.0"
-    }
   ],
   "latest_version": "1.0.0",
   "update_url": "https://github.com/Aerial-LLC/Aerial-Tool-API/releases/latest"
