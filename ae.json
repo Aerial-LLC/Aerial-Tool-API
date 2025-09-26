@@ -1,4 +1,8 @@
 {
+  "name": "AerialOS",
+  "description": "AerialOS This build, based on the latest Windows 11 build, has been tested over the years by Faceit and ESEA players, as well as members of professional CS2 and Valorant teams and academies. It is designed with an emphasis on minimal latency and high FPS, making it an ideal solution for those who are looking for the optimal combination of performance and response. Our build offers significantly better results than others, thanks to the deep integration of settings tailored to gaming needs.",
   "date": "2025-09-26T16:23:00.000Z",
-  "branch": "5.7.7"
+  "branch": 3,
+  "files": [".reg", ".bat"],
+  "lastModified": "2025-09-26T16:23:00.000Z"
 }
