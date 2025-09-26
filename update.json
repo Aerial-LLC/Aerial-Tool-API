@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.0",
-  "download_url": "https://aerialos.vercel.app/aerialtool/AerialTool_1.0.0.zip",
+  "download_url": "https://aerialos.vercel.app/files/Aerial Tool.exe",
   "mandatory": false,
   "changelog_url": "https://raw.githubusercontent.com/Aerial-LLC/Aerial-Tool-API/refs/heads/main/changelog.json"
 }
